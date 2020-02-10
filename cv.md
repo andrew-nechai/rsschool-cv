@@ -6,4 +6,4 @@ real experience in many projects and it's will be boost for my develop.
 I'am experiensed in C, C++, Python, JS, HTML, CSS and Delphy. I studi them in the Uneversity.
 My projects: https://gitlab.com/Andrew-n/to_do_list_5_beta
 I have my English tutor and I visit his lessons every week. Also I visit lessons in IBA company.
-Now, my English level is B1.
+Now, my English level is B1
