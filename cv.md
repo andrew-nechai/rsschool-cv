@@ -10,5 +10,4 @@ My projects: https://gitlab.com/Andrew-n/todolist_2
              https://gitlab.com/Andrew-n/react-list
              https://gitlab.com/Andrew-n/todolist-classes
 I have my English tutor and I visit his lessons every week. Also I visit lessons in IBA company.
-Now, my English level is B1-B2..
-
+Now, my English level is B1-B2.
